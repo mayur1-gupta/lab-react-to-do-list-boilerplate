@@ -1,0 +1,25 @@
+body{
+  background-color: aquamarine;
+}
+.inputbox{
+  width: 200px;
+  height: 25px;
+}
+.addItem{
+  width: 100px;
+  height: 30px;
+}
+.item{
+  width: 200px;
+  height: 30px;
+
+  border: 1px solid black;
+  background-color: white;
+}
+
+
+.deleteItem{
+  width: 100px;
+  height: 30px;
+  margin-top: 20px;
+}
